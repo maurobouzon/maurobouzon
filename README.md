@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauro Bouzón</h1>
-<h3 align="center">Data Scientist with a Bachelor’s Degree in Statistics</h3>
+<h3 align="center">Statistician - Data Scientist</h3>
 
 📚 Advanced student of Bachelor's in Statistics with Actuarial Profile, currently in the final course of the program. 📚
 
