@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mauro Bouzón</h1>
 <h3 align="center">I'm a Data Scientist with a Bachelor’s Degree in Statistics</h3>
 
-- 🔭 I’m currently working on **sports analytics projects**
+📚 Advanced student of Bachelor's in Statistics with Actuarial Profile, currently in the final course of the program. 📚
 
-- 🌱 I’m currently learning **AWS Cloud Computing**
+📊 Regarding professional experience, I am working as a Data Scientist, which has allowed me to apply my knowledge and delve into the use of tools such as Python, R, SQL, Git, and Power BI. 📊
 
-- 📫 How to reach me **maurobouzon458@gmail.com**
+💻 My interests lie in the field of Machine Learning or Statistical Learning, such as Factor Analysis, Principal Component Analysis, Simple and Multiple Correspondence Analysis, Clustering techniques, Discriminant Analysis, and various Prediction Models. 💻
+
+🚀🤝 I consider myself a team player who is always eager to learn and enjoys taking on new challenges. 🤝🚀
+
+ 📫 How to reach me **maurobouzon458@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
