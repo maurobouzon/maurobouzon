@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mauro Bouzón</h1>
 <h3 align="center">Statistician - Data Scientist</h3>
 
-📚 Advanced student of Bachelor's in Statistics with Actuarial Profile, currently in the final course of the program. 📚
+📚 Estudiante avanzado de la Licenciatura en Estadística con Perfil Actuarial, actualmente me enuentro cursando el último curso de la carrera. 📚
 
-📊 Regarding professional experience, I am working as a Data Scientist, which has allowed me to apply my knowledge and delve into the use of tools such as Python, R, SQL, Git, and Power BI. 📊
+📊 En cuanto a experiencia profesional, me encuentro trabajando como Data Scientist por lo que he podido poner en práctica mi conocimiento y profundizar en el manejo de herramientas como Python, R, SQL, Git y Power BI. 📊
 
-💻 My interests lie in the field of Machine Learning or Statistical Learning, such as Factor Analysis, Principal Component Analysis, Simple and Multiple Correspondence Analysis, Clustering techniques, Discriminant Analysis, and various Prediction Models. 💻
+💻 Mis intereses se encuentran relacionados al campo del Machine Learning o Aprendizaje Estadístico como el Análisis Factorial, Análisis de Componentes Principales, Análisis de Correspondencia Simple y Múltiple, técnicas de Clustering , Análisis del Discriminante y diferentes modelos de predicción. 💻
 
-🚀🤝 I consider myself a team player who is always eager to learn and enjoys taking on new challenges. 🤝🚀
+🚀🤝Me considero una persona que le gusta trabajar en equipo siempre dispuesta a aprender y que le gusta tomar nuevos desafíos.🤝🚀
 
  📫 How to reach me **maurobouzon458@gmail.com**
 
