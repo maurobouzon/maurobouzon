@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mauro Bouzón</h1>
 <h3 align="center">Statistician - Data Scientist</h3>
 
-📚 Estudiante avanzado de la Licenciatura en Estadística en Perfil Actuarial, actualmente me enuentro cursando el último curso de la carrera. 📚
+📚 Licenciado en Estadística📚
 
 📊 En cuanto a experiencia profesional, me encuentro trabajando como Data Scientist por lo que he podido poner en práctica mi conocimiento y profundizar en el manejo de herramientas como Python, R, SQL, Git y Power BI. 📊
 
