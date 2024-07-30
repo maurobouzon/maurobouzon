@@ -3,7 +3,7 @@
 
 📚 Licenciado en Estadística📚
 
-📊 En cuanto a experiencia profesional, me encuentro trabajando como Data Scientist por lo que he podido poner en práctica mi conocimiento y profundizar en el manejo de herramientas como Python, R, SQL, Git y Power BI. 📊
+📊 En cuanto a mi experiencia profesional, me encuentro trabajando como Data Scientist por lo que he podido poner en práctica mi conocimiento y profundizar en el manejo de herramientas como  R, SQL, Git, Python y Power BI. 📊
 
 💻 Mis intereses se encuentran relacionados al campo del Machine Learning o Aprendizaje Estadístico como el Análisis Factorial, Análisis de Componentes Principales, Análisis de Correspondencia Simple y Múltiple, técnicas de Clustering , Análisis del Discriminante y diferentes modelos de predicción. 💻
 
