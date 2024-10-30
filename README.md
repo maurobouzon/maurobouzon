@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mauro Bouzón</h1>
 <h3 align="center">Statistician - Data Scientist</h3>
 
-📚 Licenciado en Estadística📚
+🎓Licenciado en Estadística🎓
 
-📊 En cuanto a mi experiencia profesional, me encuentro trabajando como Data Scientist por lo que he podido poner en práctica mi conocimiento y profundizar en el manejo de herramientas como  R, SQL, Git, Python y Power BI. 📊
+📚 Actualmente me encuentro trabajando como Científico de Datos por lo que he podido poner en práctica mis conocimientos profundizando en el manejo de herramientas como Tableau, R, SQL, Git y Python. A su vez he realizado proyectos personales para poder seguir mejorando mis habilidades , estos mismos se encuentran en mi repositorio de GitHub 📚
 
 💻 Mis intereses se encuentran relacionados al campo del Machine Learning o Aprendizaje Estadístico como el Análisis Factorial, Análisis de Componentes Principales, Análisis de Correspondencia Simple y Múltiple, técnicas de Clustering , Análisis del Discriminante y diferentes modelos de predicción. 💻
 
