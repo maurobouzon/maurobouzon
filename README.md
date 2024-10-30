@@ -7,7 +7,7 @@
 
 💻 Mis intereses se encuentran relacionados al campo del Machine Learning o Aprendizaje Estadístico como el Análisis Factorial, Análisis de Componentes Principales, Análisis de Correspondencia Simple y Múltiple, técnicas de Clustering , Análisis del Discriminante y diferentes modelos de predicción. 💻
 
-🚀🤝Me considero una persona que le gusta trabajar en equipo siempre dispuesta a aprender y que le gusta tomar nuevos desafíos.🤝🚀
+🚀Me considero una persona que le gusta trabajar en equipo siempre dispuesta a aprender y que le gusta tomar nuevos desafíos.🚀
 
  📫 How to reach me **maurobouzon458@gmail.com**
 
