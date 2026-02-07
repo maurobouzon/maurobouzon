@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauro Bouzón</h1>
-<h3 align="center">Statistician - Data Scientist</h3>
+<h3 align="center"> Data Scientist - Statistician </h3>
 
 I am a Data Scientist with a strong background in Statistics, focused on transforming complex data into clear, actionable insights for business decision-making 📊.
 
