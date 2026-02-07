@@ -1,13 +1,25 @@
 <h1 align="center">Hi 👋, I'm Mauro Bouzón</h1>
 <h3 align="center">Statistician - Data Scientist</h3>
 
-🎓Licenciado en Estadística🎓
+I am a Data Scientist with a strong background in Statistics, focused on transforming complex data into clear, actionable insights for business decision-making 📊.
 
-📚 Actualmente me encuentro trabajando como Científico de Datos por lo que he podido poner en práctica mis conocimientos profundizando en el manejo de herramientas como Tableau, R, SQL, Git y Python. A su vez he realizado proyectos personales para poder seguir mejorando mis habilidades , estos mismos se encuentran en mi repositorio de GitHub 📚
+I currently work in the insurance and financial services sector, where I develop machine learning models, automate reporting processes, and build analytical solutions that support strategic decision-making.
 
-💻 Mis intereses se encuentran relacionados al campo del Machine Learning o Aprendizaje Estadístico como el Análisis Factorial, Análisis de Componentes Principales, Análisis de Correspondencia Simple y Múltiple, técnicas de Clustering , Análisis del Discriminante y diferentes modelos de predicción. 💻
+Key achievements include:
 
-🚀Me considero una persona que le gusta trabajar en equipo siempre dispuesta a aprender y que le gusta tomar nuevos desafíos.🚀
+⚙️ Automation of reports and dashboards, delivering fully automated daily reporting and significantly reducing manual effort.
+
+📈 Development of churn prediction models.
+
+🎧🤖 Participation in AI-based speech analytics projects, analyzing sales call recordings to extract strategic insights and improve commercial performance.
+
+In parallel, I develop AURA Analytica, a personal data science project applied to basketball analytics 🏀. Using Python, spatial regression models, and advanced Tableau visualizations, I analyze the most efficient shooting zones on the court for each player.
+
+Additionally, I work independently providing analytics and BI services for healthcare institutions, creating dashboards, KPIs, and automated solutions using Power BI, Python, and AI 🏥📈.
+
+I primarily work as an individual contributor, collaborating closely with business teams and executives, delivering data-driven analysis and actionable recommendations.
+
+📌 Open to opportunities in Data Science and Analytics, both locally and internationally 🌍
 
  📫 How to reach me **maurobouzon458@gmail.com**
 
