@@ -5,27 +5,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Data+Scientist;Statistician;Machine+Learning+%26+Analytics" />
 </h3>
 
-I am a Data Scientist with a strong background in Statistics, focused on transforming complex data into clear, actionable insights for business decision-making 📊.
+📊 Data Scientist con Licenciatura en Estadística, enfocado en transformar datos complejos en insights claros y accionables que impulsen la toma de decisiones estratégicas y de negocio.
 
-I currently work in the insurance and financial services sector, where I develop machine learning models, automate reporting processes, and build analytical solutions that support strategic decision-making.
+Actualmente trabajo en Zurich Santander, donde desarrollo modelos de Machine Learning, automatizo procesos de reporting y construyo soluciones analíticas.
 
-Key achievements include:
+- Automatización de dashboards y pipelines diarios de reporting.
+- Desarrollo de modelos de predicción de churn.
+- Participación en iniciativas de Speech Analytics basadas en IA.
 
-⚙️ Automation of reports and dashboards, delivering fully automated daily reporting and significantly reducing manual effort.
+🧑‍💻 Además, trabajo de forma independiente brindando servicios de análisis de datos para instituciones de salud, creando dashboards, KPIs y soluciones automatizadas utilizando Power BI, Python e IA.
 
-📈 Development of churn prediction models.
+🏀 En paralelo, desarrollo AURA Analytica, proyecto personal de ciencia de datos en basketball, donde aplico modelos de machine learning con Python para crear dashboards en Tableau.
 
-🎧🤖 Participation in AI-based speech analytics projects, analyzing sales call recordings to extract strategic insights and improve commercial performance.
+Me considero una persona proactiva que se adapta de buena manera a distintos equipos de trabajo y comunica de forma clara y concreta ideas y resultados basados en datos, tanto a perfiles técnicos como no técnicos.
 
-In parallel, I develop AURA Analytica, a personal data science project applied to basketball analytics 🏀. Using Python, spatial regression models, and advanced Tableau visualizations, I analyze the most efficient shooting zones on the court for each player.
+🛠️ Stack tecnológico: Python, SQL, Power BI, Tableau, R, Machine Learning.
 
-Additionally, I work independently providing analytics and BI services for healthcare institutions, creating dashboards, KPIs, and automated solutions using Power BI, Python, and AI 🏥📈.
-
-I primarily work as an individual contributor, collaborating closely with business teams and executives, delivering data-driven analysis and actionable recommendations.
-
-📌 Open to opportunities in Data Science and Analytics, both locally and internationally 🌍
-
- 📫 How to reach me **maurobouzon458@gmail.com**
+ 📫 Contacto: **maurobouzon458@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
